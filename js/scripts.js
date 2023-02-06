@@ -7,6 +7,13 @@
 // Scripts
 // 
 
+//testing this 
+
+    $(document).ready(function(){
+        $("#popup").modal('show');
+    }) 
+
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
