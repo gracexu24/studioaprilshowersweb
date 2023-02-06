@@ -9,9 +9,9 @@
 
 //testing this 
 
-    $(document).ready(function(){
-        $("#popup").modal('show');
-    }) 
+$(document).ready(function(){
+    $("#popup").modal('show');
+}) 
 
 
 window.addEventListener('DOMContentLoaded', event => {
