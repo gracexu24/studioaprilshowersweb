@@ -11495,7 +11495,7 @@ header.masthead .masthead-heading {
 /*trying to change popup size and format by copying portfolio stuff*/ 
 
 .popup-modal .popupmodal-dialog {
-  margin: 2rem;
+  margin: 1rem;
   max-width: 100vw;
 }
 .popup-modal .popupmodal-content {
