@@ -11492,6 +11492,48 @@ header.masthead .masthead-heading {
   font-style: italic;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+/*trying to change popup size and format by copying portfolio stuff*/ 
+
+.popup-modal .popupmodal-dialog {
+  margin: 2rem;
+  max-width: 100vw;
+}
+.popup-modal .popupmodal-content {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
+.popup-modal .popupmodal-content h2, .popup-modal .popupmodal-content .h2 {
+  font-size: 3rem;
+  line-height: 3rem;
+}
+.popup-modal .popupmodal-content p.item-intro {
+  font-style: italic;
+  margin-bottom: 2rem;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.popup-modal .popupmodal-content p {
+  margin-bottom: 2rem;
+}
+.popup-modal .popupmodal-content ul.list-inline {
+  margin-bottom: 2rem;
+}
+.popup-modal .popupmodal-content img {
+  margin-bottom: 2rem;
+}
+.popup-modal .close-modal {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  background-color: transparent;
+}
+.popup-modal .close-modal:hover {
+  opacity: 0.3;
+}
+/*end of edit*/ 
 
 .portfolio-modal .modal-dialog {
   margin: 1rem;
