@@ -11492,7 +11492,7 @@ header.masthead .masthead-heading {
   font-style: italic;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-/*trying to change popup size and format by copying portfolio stuff*/ 
+/*trying to change popup size and format by copying portfolio stuff but it didnt work 
 
 .popup-modal .popupmodal-dialog {
   margin: 1rem;
@@ -11533,10 +11533,10 @@ header.masthead .masthead-heading {
 .popup-modal .close-modal:hover {
   opacity: 0.3;
 }
-/*end of edit*/ 
+end of edit*/ 
 
 .portfolio-modal .modal-dialog {
-  margin: 1rem;
+  margin: 2rem;
   max-width: 100vw;
 }
 .portfolio-modal .modal-content {
