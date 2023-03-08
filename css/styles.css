@@ -11537,8 +11537,17 @@ end of edit*/
 
 /*changing for popup*/ 
 .popup-modal .modal-dialog {
-  margin: 20rem;
+  margin: 12rem;
   max-width: 100vw;
+}
+.popup-modal .close-modal {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  background-color: transparent;
 }
 
 .portfolio-modal .modal-dialog {
